@@ -1,6 +1,5 @@
 <h1 align='center'>howdy 👋, I'm epicnuss55! <br><span style="font-size:smaller;">(call me epic)</span></h1>
 
-[========]
 ## Who am I? 🤔
 🍁🍁🍁
 **Howdy👋, I'm epic! I'm a Full-Stack developer who lives in Australia 🦘 NSW. I'm currently a highschool student. I can be kindof childish.**
