@@ -30,4 +30,4 @@
 
 ------------
 ## Where to talk? 📞🦜
-**You wanna talk? Sure! why not?<br/>The best luck you're ever going to have with contacting me is through discord, here's my tag: `epicD#5555`.**
+**You wanna talk? Sure! why not?<br/>The best luck you're ever going to have with contacting me is through discord, here's my tag: `epicD#3606`.**
