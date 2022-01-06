@@ -1,5 +1,6 @@
 <h1 align='center'>howdy 👋, I'm epicnuss55! <br><span style="font-size:smaller;">(call me epic)</span></h1>
-
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=epicnuss55&show_icons=true&theme=github_dark)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=epicnuss55&theme=github_dark)]
 ------------
 ## Who am I? 🤔
 🍁🍁🍁<br/>**Howdy👋, I'm epic! I'm a Full-Stack developer who lives in Australia 🦘 NSW. I'm currently a highschool student. I can be kindof childish.**
