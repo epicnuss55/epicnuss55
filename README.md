@@ -4,4 +4,4 @@
 ------------
 ![https://assets.stickpng.com/images/61d183263a856e0004c6334a.png](http://assets.stickpng.com/images/61d183263a856e0004c6334a.png)
 ------------
-discord tag: `epicD#3606`.**
+discord tag: `epicD#3606`
